@@ -1,3 +1,6 @@
+容器链接：https://cloud.puratya.com/
+
+
 使用方法：
 你需要在仓库Settings →Secrets and variables →Actions里，
 配置 NODE_LINK、DISCORD_TOKEN、EMAIL、TG_BOT_TOKEN、TG_CHAT_ID
