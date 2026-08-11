@@ -2,7 +2,7 @@ name: Auto renew puratya
 
 on:
   schedule:
-    - cron: '0 0 */3 * *'  # 每三天 UTC 0:00（北京时间 8:00）
+    - cron: '0 0 */3 * *'  # 每三天一续 UTC 0:00（北京时间 8:00）
   workflow_dispatch:
 
 jobs:
